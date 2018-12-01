@@ -1,0 +1,27 @@
+img {
+    border: solid grey;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    background-color: white;
+}
+
+img:hover {
+    background-color: blue;
+}
+
+figure {
+    display: inline-block;
+}
+
+figcaption {
+    width: 150px;
+    margin: 0;
+    text-align: center;
+}
+
+#gameArea {
+    text-align: center;
+}
+
+
